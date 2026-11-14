@@ -1,6 +1,6 @@
 /* NTPC Simhadri Plant Hub — one service worker for the launcher and both apps.
    Bump CACHE whenever app code changes so every phone picks up the new version. */
-const CACHE = 'plant-hub-v2';
+const CACHE = 'plant-hub-v3';
 const CORE = [
   './', './index.html', './manifest.webmanifest', './favicon.ico',
   './icons/icon-180.png', './icons/icon-192.png', './icons/icon-512.png',
